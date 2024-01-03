@@ -1,0 +1,9 @@
+{
+    "source_dir": "src",
+    "settings_dir": "src/build/settings",
+    "files_to_filter": [
+        "src/build/settings/base.json",
+        "src/build/settings/mac.json",
+        "src/main/python/main.py"
+    ]
+}
