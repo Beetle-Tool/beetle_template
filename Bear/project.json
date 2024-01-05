@@ -1,0 +1,18 @@
+{
+    "source_dir": "src",
+    "settings_dir": "src/build/settings",
+    "files_to_filter": [
+        "src/build/settings/base.json",
+        "src/build/settings/mac.json",
+        "src/main/python/main.py"
+    ],
+    "statics_dir": "src/main/resource",
+    "medias_dir": "src/main/medias",
+    "icons_dir": "src/main/icons",
+    "languages": ["zh_CN", "en_US"],
+    "i18n_dir": "src/main/resource/i18n",
+    "rcc_paramas": {
+        "infile": "src/main/resource/resource.qrc",
+        "outfile": "src/main/python/resource.py"
+    }
+}

@@ -9,4 +9,7 @@ they contain a ~5% transparent margin. This is because otherwise they look too
 big (eg. in the Dock or in the app switcher).
 
 Icon.ico is used on Windows and Linux. You can create it from the .png files
-with [an online tool](http://icoconvert.com/Multi_Image_to_one_icon/).
+with [an online tool](https://image.online-convert.com/convert-to-ico).
+
+
+change icon size with [an online tool](https://www.gaitubao.com/).
