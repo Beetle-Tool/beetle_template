@@ -14,5 +14,6 @@
     "rcc_paramas": {
         "infile": "src/main/resource/resource.qrc",
         "outfile": "src/main/python/resource.py"
-    }
+    },
+    "qt_bindings": ""
 }
